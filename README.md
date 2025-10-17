@@ -1,0 +1,1 @@
+# Global-GDP-Analysis-by-using-SQL-and-PowerBI
